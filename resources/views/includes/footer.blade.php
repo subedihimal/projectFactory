@@ -1,3 +1,1 @@
-<html>
-    <h3>This is footer</h3>
-    </html>
+<p> 2024, Made with &hearts; by Himal for &copy; S.K Shoes </p>

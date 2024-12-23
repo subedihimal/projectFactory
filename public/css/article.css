@@ -1,0 +1,22 @@
+.addArticle {
+    font-size: large;
+    display: flex;
+    align-items: center;
+}
+
+.addArticle button {
+    margin-left: auto;
+}
+.hoverTable {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.hoverTable thead th{
+    font-size: larger;
+    padding-bottom: 10px;
+}
+.hoverTable tbody td{
+    font-size: large;
+}

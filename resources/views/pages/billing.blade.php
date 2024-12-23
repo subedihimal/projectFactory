@@ -1,9 +1,9 @@
 @extends('includes.layout')
 
 @section('head')
-<title>Dashboard</title>
+<title>Billing</title>
 @endsection
 
 @section('content')
-<h1>Dashboard</h1>
+<h1>Billing</h1>
 @endsection

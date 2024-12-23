@@ -1,7 +1,9 @@
-@include('includes.header')
+@extends('includes.layout')
 
-<html>
-    <h2> This is User</h2>
-</html>
+@section('head')
+<title>Users</title>
+@endsection
 
-@include('includes.footer')
+@section('content')
+<h1>Users</h1>
+@endsection

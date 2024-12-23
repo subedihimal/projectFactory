@@ -27,6 +27,10 @@ Route::prefix('pages')->group (function () {
     Route::get('/user',function(){
         return view('pages/user');
     })->name('user');
+
+    Route::get('/billing',function(){
+        return view('pages/billing');
+    })->name('billing');
 });
 
 ?>
